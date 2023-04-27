@@ -1,4 +1,5 @@
-const oscarFilmQuestionsData = [
+const questionsData = [
+    
     {
         question: "Which movie won the first-ever Best Picture Oscar?",
         options: {
